@@ -1,0 +1,10 @@
+matplotlib==3.3.1
+seaborn==0.11.0
+numpy==1.19.1
+torch==1.7.1
+iteround==1.0.2
+tqdm==4.49.0
+pytorch_lightning==0.8.5
+torchvision==0.8.2
+scikit_learn==0.24.0
+tensorboardX==2.1
